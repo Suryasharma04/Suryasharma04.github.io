@@ -1,0 +1,172 @@
+@import url('https://fonts.googleapis.com/css2?family=Kumbh+Sans:wght@300&family=Permanent+Marker&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Nanum+Myeongjo&display=swap');
+@import url('//maxcdn.bootstrapcdn.com/font-awesome/4.3.0/css/font-awesome.min.css');
+
+
+header {
+    color: #fefce1;
+    background-color: #ff9999;
+    font-family: 'Kumbh Sans', sans-serif;
+    font-size: 90px;
+}
+
+body {
+    color: #fefce1;
+    background-color: #ff9990;
+    font-family: 'Nanum Myeongjo', serif;
+    padding: 10px;
+    text-align: center
+}
+
+.photo1 {
+    border: 5px solid #345678;
+    border: dotted;
+    padding: 10px;
+    width: 500px;
+
+}
+
+footer {
+    color: #345678;
+    background-color: #fefce1;
+    font-family: 'Nanum Myeongjo', serif;
+    padding: 10px;
+    text-align: center;
+    border: dashed;
+    border-color: #676767;
+}
+
+nav {
+    background-color: #eee499;
+}
+
+.img1 {
+    width: 100px;
+}
+
+.text12 {
+    font-family: 'Kumbh Sans', sans-serif;
+}
+
+.img2 {
+    width: 200px;
+    padding: 10px;
+    image-orientation: circle;
+
+}
+
+.img3 {
+    width: 200px;
+    padding: 10px;
+}
+
+.texthead {
+    font-family: 'Kumbh Sans', sans-serif;
+    text-align: center;
+    color: #667898;
+    text-decoration: underline;
+    text-decoration-style: dotted;
+
+}
+
+.texthead2 {
+    font-family: 'Kumbh Sans', sans-serif;
+    text-align: center;
+    color: #667898;
+    text-decoration: underline;
+    text-decoration-style: dotted;
+}
+
+.img4 {
+    width: 200px;
+    padding: 10px;
+
+}
+
+.img5 {
+    width: 200px;
+    padding: 10px;
+
+}
+
+.img6 {
+    width: 200px;
+    padding: 10px;
+
+}
+
+
+
+
+
+a,
+a:hover {
+    color: #000;
+    text-decoration: none;
+    padding: 5px;
+}
+
+.socialbtnsbtnsbtns,
+.socialbtnsbtnsbtns ul,
+.socialbtnsbtnsbtns li {
+    margin: 0;
+    padding: 5px;
+}
+
+.socialbtnsbtnsbtns li {
+    list-style: none outside none;
+    display: inline-block;
+}
+
+.socialbtns li {
+    list-style: none outside none;
+    display: inline-block;
+}
+
+.socialbtns .fa {
+    color: #FFF;
+    text-shadow: 1px 1px 0px #000,
+        1px -1px 0px #000,
+        -1px 1px 0px #000,
+        -1px -1px 0px #000;
+    -webkit-text-shadow: 1px 1px 0px #000,
+        1px -1px 0px #000,
+        -1px 1px 0px #000,
+        -1px -1px 0px #000;
+    -moz-text-shadow: 1px 1px 0px #000,
+        1px -1px 0px #000,
+        -1px 1px 0px #000,
+        -1px -1px 0px #000;
+    -o-text-shadow: 1px 1px 0px #000,
+        1px -1px 0px #000,
+        -1px 1px 0px #000,
+        -1px -1px 0px #000;
+    transition: all ease-out 0.5s;
+    -moz-transition: all ease-out 0.5s;
+    -webkit-transition: all ease-out 0.5s;
+    -o-transition: all ease-out 0.5s;
+}
+
+.socialbtns .fa:hover {
+    color: #000;
+    text-shadow: 1px 1px 0px #fff,
+        1px -1px 0px #fff,
+        -1px 1px 0px #fff,
+        -1px -1px 0px #fff;
+    -webkit-text-shadow: 1px 1px 0px #fff,
+        1px -1px 0px #fff,
+        -1px 1px 0px #fff,
+        -1px -1px 0px #fff;
+    -moz-text-shadow: 1px 1px 0px #fff,
+        1px -1px 0px #fff,
+        -1px 1px 0px #fff,
+        -1px -1px 0px #fff;
+    -o-text-shadow: 1px 1px 0px #fff,
+        1px -1px 0px #fff,
+        -1px 1px 0px #fff,
+        -1px -1px 0px #fff;
+    transition: all ease 0.5s;
+    -moz-transition: all ease-in 0.5s;
+    -webkit-transition: all ease-in 0.5s;
+    -o-transition: all ease-in 0.5s;
+}
